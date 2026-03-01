@@ -1,2 +1,20 @@
-# ucab-cab-booking-app
-Ucab is a MERN stack-based cab booking app that enables users to log in, select pickup and drop locations, choose cab types, track rides in real time, view fare estimates, make automatic payments, and access booking history. The app also supports discounts, donations, and in-ride refreshment purchases.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/1cc3cc3f-025c-4c51-a964-07f4669e7b92
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
