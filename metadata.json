@@ -1,0 +1,5 @@
+{
+  "name": "Ucab",
+  "description": "A simple and easy-to-use cab booking app that helps people book rides quickly and comfortably.",
+  "requestFramePermissions": ["geolocation"]
+}
